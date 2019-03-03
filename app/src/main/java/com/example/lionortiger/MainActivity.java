@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     Toast.makeText(this, winnerOfGame + "is the Winner",
-                            Toast.LENGTH_LONG).show();
+                            Toast.LENGTH_LONG).show();//comment
 
 
                 }
